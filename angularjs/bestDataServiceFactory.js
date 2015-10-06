@@ -1,5 +1,5 @@
 /*
- *  BestController v1.0.0
+ *  BestDataServiceFactory v1.0.0
  *  powerfirebat@gmail.com
  */
 (function() {
